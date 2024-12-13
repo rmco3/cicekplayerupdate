@@ -1,5 +1,5 @@
-Yeni güncelleme: 1.3
+Yeni güncelleme: 1.3.1
 
 1. Buglar düzeldi
-2. Artığ "Güncelle" butonuna tılanıldığında eğer arxada zaten ""CicekPlayer Updater.exe" açığdısa tezden açılmayacağ
-3. Arayüz (UI) düzeltmeleri
+2. Arayüz (UI) eklemeleri, düzeltmeleri
+
