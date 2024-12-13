@@ -1,5 +1,4 @@
-Test Update 123145124819284
+Yeni güncelleme sistemi:
 
-1. new system
-2. new update
-3. new github
+1. Artığ rahatça güncellemeleri endire bilersiniz
+2. Arada xetalar ola biler (yeni güncelleme olmasa bile varmış kimi göstere biler)
