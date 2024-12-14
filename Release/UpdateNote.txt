@@ -5,3 +5,7 @@ Yeni güncelleme: 1.3.2
 3. Yeni güncellenmiş "CicekPlayer Updater"
 4. Küçük düzenlemeler
 
+GitHub
+
+1. README.md dosyası güncellendi
+
