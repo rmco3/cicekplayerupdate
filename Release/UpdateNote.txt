@@ -1,5 +1,7 @@
-Yeni güncelleme: 1.3.1
+Yeni güncelleme: 1.3.2
 
 1. Buglar düzeldi
 2. Arayüz (UI) eklemeleri, düzeltmeleri
+3. Yeni güncellenmiş "CicekPlayer Updater"
+4. Küçük düzenlenmeler
 
