@@ -3,3 +3,4 @@ Yeni güncelleme: 1.3.3
 1. Buglar düzeltildi
 2. Arayüz (UI) deyişiklikleri
 3. CicekPlayer Updater düzeltmeleri, daha yaxşı güncelleme testi
+4. Test
