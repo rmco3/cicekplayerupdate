@@ -1,10 +1,12 @@
-Yeni güncelleme: 1.4
+Yeni güncelleme: 1.5
 
 1. Buglar düzeltildi
-2. Artığ yüklenen mahnının onsuz şekli vardırsa, google'dan şekil axtarılıp yüklenmeyecek ele şekili yüklenecey
-3. Mahnı yüklenme süreti arttırıldı
-4. Arayüz (UI) değişiklikleri
+2. Yeni mahnı formatları: .mp4;*.m4a;*.aac;*.wma;*.flac;*.ogg;*.m4v;*.webm;*.mov
+3. Böyük arayüz (UI) değişiklikleri
+4. Kütüphaneler güncellendi
 
-Yeni güncelleme tövsiyeleriniz varsa, veya bir bug tapdıysanız mene yazın
+Yeni güncelleme tövsiyeleriniz varsa, veya bir bug tapdıysanız, veya bir xeta varsa mene yazın
+
+Ülvünün ağzına işiyim
 
 Updated and Created by Nicat
