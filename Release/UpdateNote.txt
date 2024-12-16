@@ -4,3 +4,5 @@ Yeni güncelleme: 1.4
 2. Artığ yüklenen mahnının onsuz şekli vardırsa, google'dan şekil axtarılıp yüklenmeyecek ele şekili yüklenecey
 3. Mahnı yüklenme süreti arttırıldı
 4. Arayüz (UI) değişiklikleri
+
+Created by Nicat
