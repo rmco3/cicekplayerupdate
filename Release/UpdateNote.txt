@@ -5,4 +5,5 @@ Yeni güncelleme: 1.4
 3. Mahnı yüklenme süreti arttırıldı
 4. Arayüz (UI) değişiklikleri
 
+Yeni güncelleme tövsiyeleriniz varsa, veya bir bug tapdıysanız mene yazın
 Updated and Created by Nicat
