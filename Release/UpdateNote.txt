@@ -1,12 +1,8 @@
-Yeni güncelleme: 1.5
+Yeni güncelleme: 1.5.5
 
 1. Buglar düzeltildi
-2. Yeni mahnı formatları: .mp4;*.m4a;*.aac;*.wma;*.flac;*.ogg;*.m4v;*.webm;*.mov
-3. Böyük arayüz (UI) değişiklikleri
-4. Kütüphaneler güncellendi
+2. Böyük arayüz (UI) değişiklikleri
 
 Yeni güncelleme tövsiyeleriniz varsa, veya bir bug tapdıysanız, veya bir xeta varsa mene yazın
-
-Ülvünün ağzına işiyim
 
 Updated and Created by Nicat
