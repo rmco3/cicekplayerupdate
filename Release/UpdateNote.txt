@@ -1,9 +1,7 @@
-Yeni güncelleme: 1.6
+Yeni güncelleme: 1.6.1
 
 1. Buglar düzeltildi
-2. Arayüz (UI) değişiklikleri
-3. Mahnı bitende artığ mahnının süresi "0:00 / 0:00" yerine "0:00 / mahnının süresi" oldu
-4. Ola bilecek buglar düzeltildi
+2. Mahnı silme, ve yükleme, başlatma bugu düzeltildi
 
 Yeni güncelleme tövsiyeleriniz varsa, veya bir bug tapdıysanız, veya bir xeta varsa mene yazın
 
