@@ -1,12 +1,6 @@
- v1.6.5
+ v1.6.6
 
  - Buglar düzeltildi
- - Mahnı yüklüyende Google'dan gelen şekilleri bağlama
- - Böyük arayüz (UI) değişiklikleri
- - Varsayılan mahnı şekli
+ - Artığ programın cemi işledilme vaxtı yazacağ
+ - Arayüz (UI) değişiklikleri
  - Performans optimize edildi
-
-Yeni güncelleme tövsiyeleriniz varsa, veya bir bug tapdıysanız, veya bir xeta varsa mene yazın
-
-Updated and Created by Nicat
-
