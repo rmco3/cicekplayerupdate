@@ -1,7 +1,10 @@
-Yeni güncelleme: 1.6.1
+ v1.6.5
 
-1. Buglar düzeltildi
-2. Mahnı silme, ve yükleme, başlatma bugu düzeltildi
+ - Buglar düzeltildi
+ - Mahnı yüklüyende Google'dan gelen şekilleri bağlama
+ - Böyük arayüz (UI) değişiklikleri
+ - Varsayılan mahnı şekli
+ - Performans optimize edildi
 
 Yeni güncelleme tövsiyeleriniz varsa, veya bir bug tapdıysanız, veya bir xeta varsa mene yazın
 
