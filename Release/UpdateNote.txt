@@ -1,9 +1,7 @@
- v1.6.6
+ v1.6.7
 
  - Buglar düzeltildi
- - Artığ programın cemi işledilme vaxtı yazacağ
+ - UI fix
+- Sual işaresinin rengi özü özüne ancağ deyişecey
  - Arayüz (UI) değişiklikleri
  - Performans optimize edildi
-
-
-
