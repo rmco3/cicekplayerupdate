@@ -1,7 +1,12 @@
- v1.6.7
+ v1.7
 
  - Buglar düzeltildi
  - UI fix
- - Sual işaresinin rengi özü özüne ancağ deyişecey
- - Arayüz (UI) değişiklikleri
+ - Sıra sıra mahnı oynatma özelliği geldi
+ - Böyük arayüz (UI) değişiklikleri
+ - Ses seviyesi % konum xetaları düzeltildi
+ - Mahnı başlatıldığında mahnının vaxtı gicliyirdi düzeltildi
+ - programın cemi işledilme vaxtı xetaları düzeltildi
  - Performans optimize edildi
+
+ Başarımlar yaxında gelecek
