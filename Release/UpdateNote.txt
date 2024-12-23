@@ -1,12 +1,8 @@
- v1.7
+v1.7.1
 
  - Buglar düzeltildi
  - UI fix
- - Sıra sıra mahnı oynatma özelliği geldi
- - Böyük arayüz (UI) değişiklikleri
- - Ses seviyesi % konum xetaları düzeltildi
- - Mahnı başlatıldığında mahnının vaxtı gicliyirdi düzeltildi
- - programın cemi işledilme vaxtı xetaları düzeltildi
+ - Ses xetaları düzeltildi
+ - Arayüz (UI) değişiklikleri
+ - Programın cemi işledilme vaxtı xetaları düzeltildi
  - Performans optimize edildi
-
- Başarımlar yaxında gelecek
