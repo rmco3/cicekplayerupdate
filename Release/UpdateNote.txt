@@ -1,8 +1,15 @@
- v1.7.1
+ v1.7.2
 
  - Buglar düzeltildi
- - UI fix
- - Ses xetaları düzeltildi
- - Arayüz (UI) değişiklikleri
- - Programın cemi işledilme vaxtı xetaları düzeltildi
+ - Böyük arayüz (UI) değişiklikleri
+ - Performans süretlendirildi
+ - Boş yere şekil yükleme devre dışı bırakıldı (yeni süretlendirildi)
+ - "CicekPlayer Update Notes" penceresi deyişdi
+ - Mahnıların olduğu liste böyütüldü artığ daha rahattır
+ - Mahnı yükledikten sonra mahnı silende ve mahnı ekliyende ki xetalar düzeltildi
+ - Mahnı yüklendikten sonra yeni mahnı ekliyende yüklenen mahnının adı gedirdi düzeltildi
+ - "MAHNI YOXDUR" şekli ve yazısı "MAHNI YUKLENMEDI" olarağ deyişildi
+ - Küçük deyişiklikler
+ - Potansiyel ve çoğu xeta düzeltildi
  - Performans optimize edildi
+ - Ve daha fazlası
