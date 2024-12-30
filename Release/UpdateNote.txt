@@ -1,8 +1,8 @@
-v1.7.3
+ v1.7.4
+
+ YILBAŞI GÜNCELLEMESİ
 
  - Buglar düzeltildi
- - Mahnı aratma özelliği eklendi
  - Arayüz (UI) değişiklikleri
- - "MAHNI YUKLENMEDI" yazısı ve mahnının adı mahnı yuklenende xetalı olurdu duzeltildi
  - Performans optimize edildi
- - Ve daha fazlası
+ - Diğer çıqqılı değişiklikler (ağlımda deyil)
