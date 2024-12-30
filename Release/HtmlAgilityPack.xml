@@ -148,6 +148,11 @@
             The initial value (current value)
             </summary>
         </member>
+        <member name="F:HtmlAgilityPack.AttributeValueQuote.InitialExceptWithoutValue">
+            <summary>
+            The initial value (current value). However tag without value will have a double quote by default
+            </summary>
+        </member>
         <member name="T:HtmlAgilityPack.HtmlAttributeCollection">
             <summary>
             Represents a combined list and collection of HTML nodes.
@@ -1417,11 +1422,11 @@
             <param name="node">The node.</param>
         </member>
         <member name="M:HtmlAgilityPack.HtmlNode.MoveChild(HtmlAgilityPack.HtmlNode)">
-            <summary>Move a node already associated and append it to this node instead.</summary>
+            <summary>Move a node already associated and append it to this node instead (must be from a different document).</summary>
             <param name="child">The child node to move.</param>
         </member>
         <member name="M:HtmlAgilityPack.HtmlNode.MoveChildren(HtmlAgilityPack.HtmlNodeCollection)">
-            <summary>Move a children collection already associated and append it to this node instead.</summary>
+            <summary>Move a children collection already associated and append it to this node instead (must be from a different document).</summary>
             <param name="children">The children collection already associated to move to another node.</param>
         </member>
         <member name="M:HtmlAgilityPack.HtmlNode.RemoveChildren(HtmlAgilityPack.HtmlNodeCollection)">
