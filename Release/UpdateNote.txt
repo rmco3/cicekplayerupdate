@@ -4,5 +4,6 @@
 
  - Buglar düzeltildi
  - Arayüz (UI) değişiklikleri
+ - Kütüphaneler güncellendi
  - Performans optimize edildi
  - Diğer çıqqılı değişiklikler (ağlımda deyil)
