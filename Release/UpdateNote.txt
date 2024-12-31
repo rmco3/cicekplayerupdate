@@ -1,9 +1,17 @@
- v1.7.4
+v1.7.5
 
  YILBAŞI GÜNCELLEMESİ
 
  - Buglar düzeltildi
  - Arayüz (UI) değişiklikleri
- - Kütüphaneler güncellendi
+ - Loop düzeltildi (işlemirdi) 
+ - Artığ WIFI'nız yoxdursa güncellemeleri yoxlama butonu aktif değil 
+ - "CicekPlayer Update Notes" penceresi deyişdi 
+ - Arka planda WIFI/Ethernet kontrolü güçlendirildi ve düzeltildi 
+ - Ethernet düzeltildi, eklendi 
+ - Programın cemi işledilme vaxtı xetaları düzeltildi
  - Performans optimize edildi
- - Diğer çıqqılı değişiklikler (ağlımda deyil)
+ - "Sıra sıra mahnı oynatma" seçildiğinde artığ kaydedilir ve sonra tezden yüklenilir
+ - "Ancağ Oynatma (Loop)" seçildiğinde artığ kaydedilir ve sonra tezden yüklenilir
+ - Loop seçilme devre dışı bırakma xetaları düzeltildi
+ - Mahnının adının üstüne tıklıyarağ adını kopyalıya bilersiniz
